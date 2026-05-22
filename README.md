@@ -27,7 +27,7 @@
 
 | Public repos | Stars | Forks | Followers | Profile updated |
 | ---: | ---: | ---: | ---: | --- |
-| 12 | 14 | 3 | 3 | 2026-05-19 |
+| 13 | 14 | 3 | 3 | 2026-05-19 |
 
 > Public GitHub data snapshot: 2026-05-22 KST.
 
