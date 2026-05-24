@@ -41,9 +41,27 @@
 
 <!-- Profile shelf rule: Keep namba-ai as the only highlighted project by default. Add another project here only when explicitly requested. -->
 
-<a href="https://github.com/Nam-Cheol/namba-ai">
-  <img alt="namba-ai project card" src="./assets/namba-ai-card.svg" />
-</a>
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h3><a href="https://github.com/Nam-Cheol/namba-ai">namba-ai</a></h3>
+      <p>
+        Codex workflow orchestration tool for prompt refinement, scoped goals, SPEC reviews,
+        validation evidence, and PR-ready handoffs. The core interest is not just using AI to write code,
+        but making an execution system where AI can plan, run, verify, and report work more reliably.
+      </p>
+      <p>
+        <img alt="Go" src="https://img.shields.io/badge/Go-7AC7E3?style=flat-square&logo=go&logoColor=white" />
+        <img alt="MIT" src="https://img.shields.io/badge/MIT-F2CC8F?style=flat-square" />
+        <img alt="Codex" src="https://img.shields.io/badge/Codex-3D405B?style=flat-square" />
+        <img alt="SPEC" src="https://img.shields.io/badge/SPEC%20driven-FFD6E7?style=flat-square" />
+      </p>
+      <blockquote>
+        idea -> prompt refinement -> scoped SPEC -> implementation -> validation evidence -> PR handoff
+      </blockquote>
+    </td>
+  </tr>
+</table>
 
 ## 🧰 Tool Basket
 
@@ -66,6 +84,16 @@
 | [namba-ai](https://github.com/Nam-Cheol/namba-ai) | AI agent workflow harness | SPEC 기반 계획, 실행, 검증 근거, 리포트 흐름 |
 | [Velog notes](https://velog.io/@namcher9428/posts) | Development notes | 개발 중 배운 것과 설계 고민 정리 |
 | GitHub profile | Account dashboard | 보여줄 프로젝트가 생기면 이 정원에 하나씩 업데이트 |
+
+### Focus chart
+
+| Area | Signal |
+| --- | --- |
+| Backend / Platform | ██████████ 90% |
+| AI agent workflow | █████████ 85% |
+| Dev automation | ████████ 80% |
+| Product full-stack | ██████ 60% |
+| UI polish | ████ 40% |
 
 <details>
 <summary><strong>Developer profile</strong></summary>
