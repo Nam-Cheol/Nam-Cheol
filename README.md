@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Nam-Cheol profile banner" src="./assets/profile-banner.svg" />
+  <img alt="Nam-Cheol profile banner" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:FFD6E7,50:CDEBFF,100:D8F5D0&text=Nam-Cheol%20%7C%20nambanote&fontColor=3D405B&fontSize=40&fontAlignY=34&desc=prompt%20refinement%20%C2%B7%20Codex%20workflow%20%C2%B7%20practical%20apps&descSize=15&descAlignY=54&animation=fadeIn" />
 </p>
 
 <p align="center">
