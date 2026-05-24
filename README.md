@@ -52,6 +52,8 @@
 
 ## 🧁 Highlight Shelf
 
+<!-- Profile shelf rule: Keep namba-ai as the only highlighted project by default. Add another project here only when explicitly requested. -->
+
 <table>
   <tr>
     <td width="100%" valign="top">
