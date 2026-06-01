@@ -43,7 +43,7 @@
 
 <table>
   <tr>
-    <td width="100%" valign="top">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/Nam-Cheol/namba-ai">namba-ai</a></h3>
       <p>
         Codex workflow orchestration tool for prompt refinement, scoped goals, SPEC reviews,
@@ -58,6 +58,23 @@
       </p>
       <blockquote>
         idea -> prompt refinement -> scoped SPEC -> implementation -> validation evidence -> PR handoff
+      </blockquote>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Nam-Cheol/ni">ni</a></h3>
+      <p>
+        Project Intent Compiler for AI Agents. It turns planning conversations into explicit,
+        locked project contracts before implementation starts, so agents compile intent first
+        instead of running from a vague prompt.
+      </p>
+      <p>
+        <img alt="Go" src="https://img.shields.io/badge/Go-7AC7E3?style=flat-square&logo=go&logoColor=white" />
+        <img alt="MIT" src="https://img.shields.io/badge/MIT-F2CC8F?style=flat-square" />
+        <img alt="Intent" src="https://img.shields.io/badge/intent%20compiler-3D405B?style=flat-square" />
+        <img alt="AI Agents" src="https://img.shields.io/badge/AI%20agents-FFD6E7?style=flat-square" />
+      </p>
+      <blockquote>
+        planning conversation -> explicit contract -> readiness check -> locked handoff prompt
       </blockquote>
     </td>
   </tr>
